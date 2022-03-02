@@ -1,0 +1,23 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="1080" fill="#E5E5E5"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="1920" height="1080" fill="white"/>
+<circle cx="9" cy="96" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="9" cy="156" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="9" cy="216" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="79" cy="96" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="149" cy="96" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="219" cy="96" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="79" cy="156" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="149" cy="156" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="219" cy="156" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="79" cy="216" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="149" cy="216" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+<circle cx="219" cy="216" r="25" fill="#73D5EF" fill-opacity="0.5"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
